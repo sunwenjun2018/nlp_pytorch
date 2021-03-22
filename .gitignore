@@ -1,0 +1,52 @@
+#  Local .terraform directories
+**/.terraform/*
+**/w2v_model/
+**/saved/
+**/runs/*
+**/.idea/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/summarys/
+**/outputs/
+**/saved_models/
+version/
+**/version/
+**/gitinfo/
+**/runs/
+**/.idea/
+**/__pycache__/
+**/outputs/bilstm_crf/**
+**/log/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*checkpoint
+**/model.ckpt*
+*.ckpt*
+# .tfvars files
+*.tfvars
+*.all
+*.hdf5
+task/.idea/*
+**/cluener_output/*
+**/cner_output/*
+*.xml
+
+# .tfvars files
+*.tfvars
+
+task/.idea/*
+*.xml
+*.rar
+*.bin
+*.vec
+*.model
+*.gz
+*.bz2
+*.word
+*.pkl
+.ipynb_checkpoints
+*.neg
+*.pos
+*.pth
